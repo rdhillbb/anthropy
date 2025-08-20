@@ -20,7 +20,7 @@ def create_hybrid_config():
         "mcp_servers": [
             {
                 "type": "url",
-                "url": "https://mcp.pipedream.net/9fa309c7-d3d2-48e3-8236-b9732cac712c/openai",
+                "url": "https://mcp.pipedream.net/xxxxxxxxxxxxxx/openai",
                 "name": "pipedream-openai"
             }
         ],

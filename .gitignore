@@ -1,7 +1,7 @@
 # Directories to ignore
 misc_cc/
 .venv/
-testpy/
+testspy/
 miscdocs/
 
 # Python
